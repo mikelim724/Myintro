@@ -1,0 +1,96 @@
+body {
+	font-family: 'Barlow Condensed', sans-serif;
+	background-image: url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png);
+	background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.top-header {
+	text-align: center;
+	color: #0c64b6;
+}
+
+.top-header h1{
+	font-size: 50px;
+	font-weight: 700;
+}
+
+.line-top {
+	border: 1px solid #1b3a46;
+}
+
+.container {
+	
+}
+
+.about-me {
+	background-color: white;
+	border-radius: 80px;
+	padding-left: 2%;
+	border: 5px solid #e3e8fc;
+	margin-top: 3%;
+	padding-bottom: 5%;
+	padding-right: 2%;
+	padding-top: 2%;
+}
+
+.section-name {
+	color: #0c64b6;
+	font-weight: 500;
+}
+
+.section-name h2{
+	font-weight: 550;
+	font-size: 40px;
+}
+
+.my-info {
+	margin-top: 15%;
+}
+
+.my-info p{
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.section-info p{
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+
+.picture-self {
+	width: 90%;
+	margin-bottom: 10px;
+	margin-left: 5%;
+    margin-top: 10%;
+    transform: rotate(90deg);
+}
+
+.additional-info {
+	background-color: white;
+	border-radius: 25px;
+/*	margin-left: 2.5%;
+	margin-right: 2.5%;*/
+	margin-bottom: 3%;
+	border: 5px solid #e3e8fc;
+	margin-top: 3%;
+	padding-left: 2%;
+	margin-bottom: 3%;
+	padding-right: 2%;
+	padding-bottom: 1%;
+}
+
+.picture-icon {
+	height: 18px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
