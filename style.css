@@ -65,8 +65,15 @@ body {
 	width: 90%;
 	margin-bottom: 10px;
 	margin-left: 5%;
-    margin-top: 10%;
+    margin-top: 30%;
     transform: rotate(90deg);
+}
+
+.picture-flat {
+	width: 90%;
+	margin-bottom: 10px;
+	margin-left: 5%;
+    margin-top: 30%;
 }
 
 .additional-info {
